@@ -71,7 +71,7 @@ Contact data is stored in a JSON file (`contacts.json`). This simple approach al
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/noorsadaf28/ContactManagerAPI.git
 
 2. Open the Project:
 	You may need to open the solution file (.sln) if it doesn't open automatically.
